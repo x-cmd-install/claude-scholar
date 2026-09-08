@@ -5,13 +5,13 @@ about:
   head: 6ed46da
   archived: false
   latestVersion: "v1.0.0"
-  collectedAt: 2026-09-08T02:11:04Z
+  collectedAt: 2026-09-08T04:54:27Z
 timeline:
   created: 2026-01-27
   lastCommit: 2026-08-27
   lastRelease: 2026-02-25
 popularity:
-  star: 5369
+  star: 5372
   watcher: 22
   fork: 418
   release: 1
@@ -82,7 +82,7 @@ total:
   commit: 188
 ---
 path: /home/runner/.x-repo/github.com/Galaxy-Dawn/claude-scholar
-collectedAt: 2026-09-08T02:11:06Z
+collectedAt: 2026-09-08T04:54:29Z
 loc:
   Tex:
     code: 8159
