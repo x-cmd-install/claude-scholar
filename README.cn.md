@@ -4,7 +4,7 @@
 
 Semi-automated research assistant for academic research and software development. Supports Claude Code, Codex CLI, Kimi Code CLI, and OpenCode across ideation, coding, experiments, writing, and publication.
 
-![claude-scholar](https://repo.x-cmd.io/claude-scholar.svg)
+![claude-scholar](https://repo.x-cmd.io/claude-scholar.svg?lang=zh)
 
 ## 安装
 
@@ -21,11 +21,10 @@ x install claude-scholar
 
 - **最新版本**: `v1.0.0` (2026-02-25)
 - **最近提交**: 2026-08-27
-- **发布时间**: 2026-02-25T03:15:09Z
 
 ## 流行度
 
-- **Star**: 5,412 · **Fork**: 422 · **开放 issue**: 21 · **贡献者**: 7
+- **Star**: 5,419 · **Fork**: 422 · **开放 issue**: 21 · **贡献者**: 7
 
 ## 累计统计
 
@@ -60,4 +59,4 @@ claude-scholar 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/in
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:01:20Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:35:17Z._

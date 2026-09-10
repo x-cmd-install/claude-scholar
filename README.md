@@ -21,11 +21,10 @@ x install claude-scholar
 
 - **Latest**: `v1.0.0` (2026-02-25)
 - **Last commit**: 2026-08-27
-- **Published**: 2026-02-25T03:15:09Z
 
 ## Popularity
 
-- **Stars**: 5,412 · **Forks**: 422 · **Open issues**: 21 · **Contributors**: 7
+- **Stars**: 5,419 · **Forks**: 422 · **Open issues**: 21 · **Contributors**: 7
 
 ## Totals (cumulative)
 
@@ -56,8 +55,8 @@ Total: **19,268** lines of code across **87** files in the top 5 languages.
 Install metadata for claude-scholar lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `claude-scholar` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/claude-scholar.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/claude-scholar.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T05:01:20Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:35:16Z._
