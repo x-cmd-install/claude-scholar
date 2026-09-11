@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.0.0"
   latestRelease: "v1.0.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:22:36Z
+  collectedAt: 2026-09-11T04:52:29Z
 timeline:
   created: 2026-01-27
   lastCommit: 2026-08-27
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-02-25
   lastPrerelease: 
 popularity:
-  star: 5420
+  star: 5423
   watcher: 21
   fork: 422
   release: 1
@@ -86,7 +86,7 @@ total:
   commit: 188
 ---
 path: /home/runner/.x-repo/github.com/Galaxy-Dawn/claude-scholar
-collectedAt: 2026-09-11T00:22:38Z
+collectedAt: 2026-09-11T04:52:30Z
 loc:
   Tex:
     code: 8159
