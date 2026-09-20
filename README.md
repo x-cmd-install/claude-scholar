@@ -4,7 +4,7 @@
 
 Semi-automated research assistant for academic research and software development. Supports Claude Code, Codex CLI, Kimi Code CLI, and OpenCode across ideation, coding, experiments, writing, and publication.
 
-![claude-scholar](https://repo.x-cmd.io/claude-scholar.svg)
+[![x-cmd/install — claude-scholar Code Quality Monitoring Repo Card](https://repo.x-cmd.io/claude-scholar.svg)](https://x-cmd.com/install/claude-scholar)
 
 ## Install
 
@@ -36,7 +36,7 @@ Total: **19,268** lines of code across **87** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,540 · **Forks**: 430 · **Open issues**: 21 · **Contributors**: 7
+- **Stars**: 5,567 · **Forks**: 433 · **Open issues**: 21 · **Contributors**: 7
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **19,268** lines of code across **87** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 2 | 0 | 0 | 0 | 4 |
-| last60d | 2026-07-20 | 0 | 2 | 0 | 0 | 0 | 4 |
-| 90d | 2026-06-20 | 0 | 2 | 1 | 0 | 0 | 5 |
-| last180d | 2026-03-22 | 0 | 5 | 2 | 12 | 1 | 72 |
-| 360d | 2025-09-23 | 1 | 10 | 2 | 20 | 1 | 171 |
-| last720d | 2024-09-28 | 1 | 10 | 2 | 20 | 1 | 188 |
+| 30d | 2026-08-21 | 0 | 2 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 2 | 0 | 0 | 0 | 4 |
+| 90d | 2026-06-22 | 0 | 2 | 1 | 0 | 0 | 5 |
+| last180d | 2026-03-24 | 0 | 5 | 2 | 10 | 1 | 65 |
+| 360d | 2025-09-25 | 1 | 10 | 2 | 20 | 1 | 171 |
+| last720d | 2024-09-30 | 1 | 10 | 2 | 20 | 1 | 188 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for claude-scholar lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:57:44Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:09:20Z._
