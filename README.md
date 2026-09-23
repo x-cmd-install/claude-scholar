@@ -4,7 +4,7 @@
 
 Semi-automated research assistant for academic research and software development. Supports Claude Code, Codex CLI, Kimi Code CLI, and OpenCode across ideation, coding, experiments, writing, and publication.
 
-[![x-cmd/install — claude-scholar Code Quality Monitoring Repo Card](https://repo.x-cmd.io/claude-scholar.svg)](https://x-cmd.com/install/claude-scholar)
+[![x-cmd/install — claude-scholar Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/claude-scholar.svg)](https://x-cmd.com/install/claude-scholar)
 
 ## Install
 
@@ -36,7 +36,7 @@ Total: **19,268** lines of code across **87** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,595 · **Forks**: 440 · **Open issues**: 22 · **Contributors**: 7
+- **Stars**: 5,609 · **Forks**: 442 · **Open issues**: 22 · **Contributors**: 7
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **19,268** lines of code across **87** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 2 | 1 | 0 | 1 | 0 |
-| last60d | 2026-07-24 | 0 | 2 | 1 | 0 | 1 | 4 |
-| 90d | 2026-06-24 | 0 | 2 | 2 | 0 | 1 | 5 |
-| last180d | 2026-03-26 | 0 | 5 | 3 | 10 | 2 | 65 |
-| 360d | 2025-09-27 | 1 | 10 | 3 | 20 | 2 | 171 |
-| last720d | 2024-10-02 | 1 | 10 | 3 | 20 | 2 | 188 |
+| 30d | 2026-08-24 | 0 | 2 | 1 | 0 | 1 | 0 |
+| last60d | 2026-07-25 | 0 | 2 | 1 | 0 | 1 | 4 |
+| 90d | 2026-06-25 | 0 | 2 | 2 | 0 | 1 | 5 |
+| last180d | 2026-03-27 | 0 | 5 | 3 | 10 | 2 | 65 |
+| 360d | 2025-09-28 | 1 | 10 | 3 | 20 | 2 | 171 |
+| last720d | 2024-10-03 | 1 | 10 | 3 | 20 | 2 | 188 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for claude-scholar lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:17:12Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:10:39Z._
