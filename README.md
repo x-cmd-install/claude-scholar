@@ -14,14 +14,14 @@ x install claude-scholar
 
 ## Code insight
 
-Total: **19,296** lines of code across **87** files in the top 5 languages.
+Total: **19,325** lines of code across **87** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Tex | 8,159 | 1,726 | 1,023 | 24 |
 | Python | 5,649 | 302 | 1,103 | 29 |
 | Sh | 2,313 | 350 | 529 | 17 |
-| JavaScript | 1,961 | 347 | 281 | 9 |
+| JavaScript | 1,978 | 352 | 282 | 9 |
 | Json | 1,038 | 0 | 0 | 8 |
 
 ## Source
@@ -32,26 +32,26 @@ Total: **19,296** lines of code across **87** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.0.0` (2026-02-25)
-- **Last commit**: 2026-09-23
+- **Last commit**: 2026-10-19
 
 ## Popularity
 
-- **Stars**: 5,828 · **Forks**: 472 · **Open issues**: 22 · **Contributors**: 8
+- **Stars**: 5,841 · **Forks**: 476 · **Open issues**: 22 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 15 · **Open PRs**: 5 · **Closed issues**: 21 · **Open issues**: 1 · **Commits**: 193
+- **Releases**: 1 · **Merged PRs**: 19 · **Open PRs**: 2 · **Closed issues**: 21 · **Open issues**: 1 · **Commits**: 201
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 5 | 3 | 1 | 0 | 0 |
-| last60d | 2026-08-20 | 0 | 7 | 3 | 1 | 0 | 4 |
-| 90d | 2026-07-21 | 0 | 7 | 3 | 1 | 0 | 7 |
-| last180d | 2026-04-22 | 0 | 7 | 5 | 4 | 1 | 33 |
-| 360d | 2025-10-24 | 1 | 15 | 5 | 21 | 1 | 174 |
-| last720d | 2024-10-29 | 1 | 15 | 5 | 21 | 1 | 193 |
+| 30d | 2026-09-20 | 0 | 8 | 0 | 0 | 0 | 4 |
+| last60d | 2026-08-21 | 0 | 11 | 0 | 1 | 0 | 8 |
+| 90d | 2026-07-22 | 0 | 11 | 0 | 1 | 0 | 11 |
+| last180d | 2026-04-23 | 0 | 11 | 2 | 4 | 1 | 37 |
+| 360d | 2025-10-25 | 1 | 19 | 2 | 21 | 1 | 178 |
+| last720d | 2024-10-30 | 1 | 19 | 2 | 21 | 1 | 201 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for claude-scholar lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:47:05Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T04:58:45Z._
