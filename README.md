@@ -36,22 +36,22 @@ Total: **19,325** lines of code across **87** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,869 · **Forks**: 458 · **Open issues**: 22 · **Contributors**: 10
+- **Stars**: 5,877 · **Forks**: 459 · **Open issues**: 22 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 19 · **Open PRs**: 2 · **Closed issues**: 21 · **Open issues**: 1 · **Commits**: 201
+- **Releases**: 1 · **Merged PRs**: 19 · **Open PRs**: 3 · **Closed issues**: 21 · **Open issues**: 1 · **Commits**: 201
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 8 | 0 | 0 | 0 | 4 |
-| last60d | 2026-08-23 | 0 | 11 | 0 | 1 | 0 | 8 |
-| 90d | 2026-07-24 | 0 | 11 | 0 | 1 | 0 | 11 |
-| last180d | 2026-04-25 | 0 | 11 | 2 | 4 | 1 | 37 |
-| 360d | 2025-10-27 | 1 | 19 | 2 | 21 | 1 | 178 |
-| last720d | 2024-11-01 | 1 | 19 | 2 | 21 | 1 | 201 |
+| 30d | 2026-09-23 | 0 | 4 | 1 | 0 | 0 | 4 |
+| last60d | 2026-08-24 | 0 | 11 | 1 | 1 | 0 | 8 |
+| 90d | 2026-07-25 | 0 | 11 | 1 | 1 | 0 | 11 |
+| last180d | 2026-04-26 | 0 | 11 | 3 | 4 | 1 | 37 |
+| 360d | 2025-10-28 | 1 | 19 | 3 | 21 | 1 | 178 |
+| last720d | 2024-11-02 | 1 | 19 | 3 | 21 | 1 | 201 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for claude-scholar lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:54:30Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:59:07Z._
