@@ -14,13 +14,13 @@ x install claude-scholar
 
 ## Code insight
 
-Total: **19,736** lines of code across **90** files in the top 5 languages.
+Total: **21,470** lines of code across **92** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Tex | 8,159 | 1,726 | 1,023 | 24 |
-| Python | 5,726 | 302 | 1,117 | 30 |
-| Sh | 2,533 | 350 | 540 | 17 |
+| Python | 7,455 | 316 | 1,288 | 32 |
+| Sh | 2,538 | 350 | 540 | 17 |
 | JavaScript | 2,030 | 354 | 288 | 10 |
 | Json | 1,100 | 0 | 0 | 9 |
 
@@ -32,26 +32,26 @@ Total: **19,736** lines of code across **90** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.0.0` (2026-02-25)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-27
 
 ## Popularity
 
-- **Stars**: 6,108 · **Forks**: 477 · **Open issues**: 23 · **Contributors**: 11
+- **Stars**: 6,114 · **Forks**: 477 · **Open issues**: 23 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 1 · **Merged PRs**: 23 · **Open PRs**: 5 · **Closed issues**: 23 · **Open issues**: 0 · **Commits**: 210
+- **Releases**: 1 · **Merged PRs**: 28 · **Open PRs**: 0 · **Closed issues**: 23 · **Open issues**: 0 · **Commits**: 215
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 4 | 5 | 1 | 0 | 7 |
-| last60d | 2026-09-27 | 0 | 8 | 5 | 1 | 0 | 11 |
-| 90d | 2026-08-28 | 0 | 13 | 5 | 2 | 0 | 14 |
-| last180d | 2026-05-30 | 0 | 15 | 5 | 2 | 0 | 29 |
-| 360d | 2025-12-01 | 1 | 23 | 5 | 23 | 0 | 185 |
-| last720d | 2024-12-06 | 1 | 23 | 5 | 23 | 0 | 210 |
+| 30d | 2026-10-28 | 0 | 9 | 0 | 1 | 0 | 11 |
+| last60d | 2026-09-28 | 0 | 13 | 0 | 1 | 0 | 15 |
+| 90d | 2026-08-29 | 0 | 18 | 0 | 2 | 0 | 18 |
+| last180d | 2026-05-31 | 0 | 20 | 0 | 2 | 0 | 33 |
+| 360d | 2025-12-02 | 1 | 28 | 0 | 23 | 0 | 189 |
+| last720d | 2024-12-07 | 1 | 28 | 0 | 23 | 0 | 215 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for claude-scholar lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:56:16Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:39:17Z._
