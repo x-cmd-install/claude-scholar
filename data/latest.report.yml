@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.0.0"
   latestRelease: "v1.0.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T09:39:10Z
+  collectedAt: 2026-11-28T07:57:12Z
 timeline:
   created: 2026-01-27
   lastCommit: 2026-11-27
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-02-25
   lastPrerelease: 
 popularity:
-  star: 6114
+  star: 6120
   watcher: 21
   fork: 477
   release: 1
@@ -30,7 +30,7 @@ language:
 totalBytes: 526453
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 9
     openPR: 0
@@ -38,7 +38,7 @@ recent:
     openIssue: 0
     commit: 11
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 13
     openPR: 0
@@ -46,7 +46,7 @@ recent:
     openIssue: 0
     commit: 15
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 18
     openPR: 0
@@ -54,7 +54,7 @@ recent:
     openIssue: 0
     commit: 18
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
     mergedPR: 20
     openPR: 0
@@ -62,7 +62,7 @@ recent:
     openIssue: 0
     commit: 33
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 1
     mergedPR: 28
     openPR: 0
@@ -70,7 +70,7 @@ recent:
     openIssue: 0
     commit: 189
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 1
     mergedPR: 28
     openPR: 0
@@ -86,7 +86,7 @@ total:
   commit: 215
 ---
 path: /home/runner/.x-repo/github.com/Galaxy-Dawn/claude-scholar
-collectedAt: 2026-11-27T09:39:12Z
+collectedAt: 2026-11-28T07:57:14Z
 loc:
   Tex:
     code: 8159
